@@ -1,0 +1,17 @@
+<html>
+<head>
+     <title>Student details</title>
+</head>
+<center><img src="C:\Users\ankit\OneDrive\Desktop\kiit logo.png" height=200 width=200></center>
+<body bgcolor="white">
+<font color="green" size=100><center>KIIT DEEMED TO BE UNIVERSITY</font>
+<h1><center>IDENTITY CARD</h1>
+<h2><font color="red">School of Computer Engineering</font></h2>
+<h3><img src="C:\Users\ankit\OneDrive\Desktop\me2.o.jpg" height=200 width=200></center></h3>
+<h4><center><font size="5">ANKITA PADHY</font></h4>
+<h5><center><font size="5">Course:B.Tech</font></h5>
+<h6><center><font size="5">Branch:CSE</font></h6>
+<h7><center><font size="5">Roll No:21051586</font></h7>
+
+</body>
+</html>
